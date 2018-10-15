@@ -3,4 +3,5 @@
 def say_hello ("Hello", name = "Ruby Programmer")
     puts name
   end
+  puts name 
   
